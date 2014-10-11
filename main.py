@@ -4,7 +4,7 @@ import operator
 
 SOLUTION = 'Hello, World!'
 MAX_SCORE = len(SOLUTION)
-MAX_DNA_LENGTH = 20
+MAX_DNA_LENGTH = MAX_SCORE * 2
 CHANCES_TO_EVOLVE = (
     (0.05, 3),
     (0.15, 2),
