@@ -1,4 +1,4 @@
-genetic_hello_world
+genetic-hello-world
 ===================
 
 Print 'Hello, World!' with genetic algorithms
